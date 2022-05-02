@@ -3,7 +3,11 @@ A Project for class CSCE5218 Spring2022 at University of North Texas (UNT)
 
 
 # *** CRITICAL ***
-#  Mounting GoogleDrive 
+# DO NOT RUN ALL CELLs AT ONCE !!! YOU HAVE BEEN WARNED!!!
+
+
+# *** CRITICAL 1 ***
+# Mounting GoogleDrive 
 You will need to add a shortcut to this Google shared folder to your own Google Drive to be able to access the dataset, the saved models, nad saved output statistics:
 https://drive.google.com/drive/folders/1IypaLVub6Mk9A0AO_hN3wv5yEY04JNin
 

@@ -4,6 +4,7 @@ A Project for class CSCE5218 Spring2022 at University of North Texas (UNT)
 
 # *** CRITICAL ***
 # DO NOT RUN ALL CELLs AT ONCE !!! YOU HAVE BEEN WARNED!!!
+# Each notebook contains a separate model
 
 
 # *** CRITICAL 1 ***
